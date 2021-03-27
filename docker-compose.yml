@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+
+  guardian-nginx:
+    build: ./nginx
+    container_name: guardian-nginx
+    restart: always
+    ports:
+      - "80:80"
+
+networks: 
+  default:
+    name: guardian-network
