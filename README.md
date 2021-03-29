@@ -6,12 +6,12 @@
 
 > Just a study using Nginx for mapping all projects
 
-## Why?
+## Why ❓
 
 > The idea is to use this project to study Nginx and related technologies.
 
-## Documentation
-
+## Documentation :pencil:
+- :construction:
 
 ## Usage
 
